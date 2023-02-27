@@ -662,6 +662,8 @@ a {
     flex-direction: row;
     flex-wrap: wrap;
     padding-left: 92px;
+    display: flex;
+    max-width: 550px;
   }
 
   .social-media {
